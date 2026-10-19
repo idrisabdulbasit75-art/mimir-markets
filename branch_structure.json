@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-360-test-api-cover-pause-registry-capability-gating",
+    "fix/issue-380-test-contracts-cover-squad-transition-deadline",
+    "fix/issue-393-perf-ui-split-the-vs-create-page-into-step",
+    "fix/issue-414-fix-agents-honour-market-creator-max",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-360-test-api-cover-pause-registry-capability-gating": "main",
+    "fix/issue-380-test-contracts-cover-squad-transition-deadline": "main",
+    "fix/issue-393-perf-ui-split-the-vs-create-page-into-step": "main",
+    "fix/issue-414-fix-agents-honour-market-creator-max": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-360-test-api-cover-pause-registry-capability-gating",
+    "fix/issue-380-test-contracts-cover-squad-transition-deadline",
+    "fix/issue-393-perf-ui-split-the-vs-create-page-into-step",
+    "fix/issue-414-fix-agents-honour-market-creator-max",
+    "origin"
+  ]
+}
